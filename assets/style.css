@@ -1,0 +1,13 @@
+#main {
+	width: auto;
+	height: auto;
+	margin: 50px 50px;
+	padding: 10px;
+}
+
+.info {
+	width: auto;
+	background-color: #efefef;
+	padding: 10px;
+	border-radius: 5px; 
+}

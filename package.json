@@ -1,0 +1,26 @@
+{
+  "name": "crud-using-node-express-mysql",
+  "version": "1.0.0",
+  "description": "This is a todo app using nodejs, express and mysql",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shaad",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.4.1",
+    "body-parser": "^1.15.2",
+    "bookshelf": "^0.10.0",
+    "cors": "^2.7.1",
+    "express": "^4.14.0",
+    "http-node": "^1.2.0",
+    "knex": "^0.11.7",
+    "mysql": "^2.11.1",
+    "nodemon": "^1.9.2",
+    "property-validator": "^0.6.0"
+  },
+  "devDependencies": {
+    "lodash": "^4.13.1"
+  }
+}
